@@ -9,7 +9,7 @@ Fig. 1: High-level depiction of Chronos. (Left) The input time series is scaled 
 
 
 
-After applying the Chronos model to both the Passenger dataset and a US Stock dataset, I've observed that the model performs satisfactorily when the data exhibits a clear trend, although its performance lacks conclusiveness. To further enhance the analysis, the following steps could be pursued:
+<br> <br> After applying the Chronos model to both the Passenger dataset and a US Stock dataset, I've observed that the model performs satisfactorily when the data exhibits a clear trend, although its performance lacks conclusiveness. To further enhance the analysis, the following steps could be pursued:
 
 1) Experiment with demand forecasting datasets characterized by high volatility to assess the model's robustness in handling unpredictable fluctuations.
 
