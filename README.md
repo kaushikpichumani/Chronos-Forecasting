@@ -5,3 +5,6 @@ Once trained, probabilistic forecasts are obtained by sampling multiple future t
 Chronos models have been trained on a large corpus of publicly available time series data, as well as synthetic data generated using Gaussian processes.
 
 ![Uploading image.png…]()
+
+
+I have tried running the model on Passenger dataset and an US Stock.
